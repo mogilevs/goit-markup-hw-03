@@ -50,7 +50,6 @@ img {
   align-items: center;
   justify-content: flex-start;
   flex-direction: row;
-  gap: 76px;
   margin-right: auto;
 }
 .logo {
